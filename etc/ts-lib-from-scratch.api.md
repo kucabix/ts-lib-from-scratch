@@ -7,7 +7,7 @@
 // @public
 export function avg(a: number, b: number, c: number): number;
 
-// @beta (undocumented)
+// @beta
 export function subtract(a: number, b: number): number;
 
 // @beta
